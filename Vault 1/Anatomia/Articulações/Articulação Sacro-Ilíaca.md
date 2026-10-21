@@ -11,9 +11,9 @@ Vista Posterior (com esqueleto, articulações e nervos):
 
 ### 1. Nome, ossos envolvidos, classificação
 
-**Nome e ossos envolvidos:** articulação sacro-ilíaca, constituída pela união entre o osso sacro e o osso ilíaco.
+A articulação sacro-ilíaca é constituída pela união entre o osso sacro e o osso ilíaco.
 
-**Função essencial:** assegura a transmissão e a sustentação do peso do tronco, da cabeça e dos membros superiores para as extremidades inferiores.
+Tem como função essencial assegurar a transmissão e a sustentação do peso do tronco, da cabeça e dos membros superiores para as extremidades inferiores.
 
 **Classificação morfológica e estrutural:**
 - no homem jovem: classifica-se como uma diartrose plana ou artródia.
@@ -30,11 +30,7 @@ Homem:
 
 ### 2. Superfícies articulares
 
-**Superfícies ósseas:** superfícies auriculares do sacro e do osso ilíaco.
-
-**Revestimento cartilagíneo:** as superfícies articulares possuem apenas uma camada diminuta de cartilagem articular de revestimento.
-
-**Características morfológicas:** não possui bordalete fibrocartilagíneo nem meniscos interpostos.
+As superfícies articulares do sacro e do ilíaco (superfícies ósseas) possuem apenas uma camada diminuta de cartilagem articular de revestimento (revestimento cartilagíneo), não possuindo bordalete fibrocartilagíneo nem meniscos interpostos (características morfológicas).
 
 ### 3. Sinovial 
 
@@ -42,32 +38,27 @@ A cavidade sinovial é pequena e não apresenta bolsas.
 
 ### 4. Meios de união
 
-**Cápsula articular:** fina, estreita e circunscrita essencialmente ao contorno da fenda articular anterior e inferior, tendo um papel mecânico secundário quando comparada com a forte armadura ligamentar.
+**Ligamento interósseo:** é o mais forte ligamento interósseo de todo o corpo humano e situa-se profundamente na fenda articular póstero-superior, ocupando o espaço entre as tuberosidades ilíaca e sacral.
 
-**Ligamento interósseo:**
-- situa-se profundamente na fenda articular póstero-superior, ocupando o espaço entre as tuberosidades ilíaca e sacral.
-- é o mais forte ligamento interósseo de todo o corpo humano, constituindo o pilar biomecânico da articulação contra o cisalhamento vertical.
+**Ligamentos intrínsecos:**
 
-**Ligamentos intrínsecos de reforço:**
 - **Ligamento sacro-ilíaco anterior:** estende-se da base e da metade superior da face anterior do sacro até ao rebordo auricular do osso ilíaco.
-- **Ligamento sacro-ilíaco posterior (muito espesso e dividido em dois planos):**
+- **Ligamento sacro-ilíaco posterior (mais espesso e dividido em dois planos):**
 	- _Plano superficial:_ feixes longos dispostos em quatro fascículos que partem da crista ilíaca para os tubérculos posteriores do sacro.
 	- _Plano profundo:_ feixes curtos que unem a tuberosidade ilíaca às áreas laterais da face posterior do sacro.
 
-**Ligamentos extrínsecos (estabilizadores regionais à distância):**
+**Ligamentos extrínsecos:
+
 - **Ligamento iliolombar:** une a apófise transversa da quinta vértebra lombar (L5) à crista ilíaca posterior.
-- **Ligamento sacro-espinhoso (pequeno ligamento ciático):** estende-se da metade inferior do bordo lateral do sacro até à espinha ciática (isquiática).
-- **Ligamento sacrotuberositário (grande ligamento ciático):** parte das espinhas ilíacas posteriores e bordo lateral do sacro em direção à tuberosidade isquiática.
-- _Relevância anatómica dos ligamentos extrínsecos:_ delimitam os buracos ciáticos maior e menor, por onde passam vasos e nervos fundamentais da bacia para a coxa (com destaque para a emergência do nervo ciático pelo buraco ciático maior).
+- **Ligamento sacro-espinhoso (pequeno ligamento ciático)** localiza-se anteriormente estendendo-se da metade inferior do bordo lateral do sacro até à espinha ciática.
+- **Ligamento sacrotuberositário (grande ligamento ciático)** localiza-se posteriormente.
+
+os ligamentos extrínsecos delimitam os buracos ciáticos maior e menor, por onde passam vasos e nervos fundamentais da bacia para a coxa.
 
 ### 5. Movimentos
 
-**Amplitude em condições basais:** movimentos nulos ou extremamente reduzidos, limitados a micromovimentos de deslizamento que amortecem cargas axiais.
+Em estado basal os movimentos são praticamente nulos, há a um deslizamento micrométrico sob carga mecânica.
 
-**Movimentos na gravidez e parto:**
-- no final da gestação e no trabalho de parto, a frouxidão ligamentar hormonalmente mediada permite a basculação do sacro (movimentos de nutação e contranutação).
-- a basculação posterior do sacro afasta as paredes ósseas da bacia e **aumenta o diâmetro do canal de parto**, viabilizando a passagem do feto.
+No final da gestação e trabalho de parto, a basculação posterior do sacro aumenta o diâmetro do canal de parto para a descida do feto.
 
-**Implicações posturais e biomecânicas:**
-- assimetrias na articulação sacro-ilíaca provocam uma falsa sensação de comprimento desigual dos membros inferiores e associam-se a escoliose.
-- em quadros de hiperlordose lombar (frequente na gravidez, obesidade ou compensação de hipercifose no envelhecimento), o sacro horizontaliza-se, provocando o estiramento crónico dos ligamentos sacro-ilíacos com subsequente dor lombar e sacroilíaca mecânica
+A hiperlordose lombar frequente na gravidez, obesidade e no envelhecimento tem tendência a horizontalizar o sacro, levando ao estiramento dos ligamentos sacro-ilíacos e gerando dor lombar.
