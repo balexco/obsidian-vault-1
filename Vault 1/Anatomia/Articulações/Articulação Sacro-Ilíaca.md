@@ -34,7 +34,7 @@ A cavidade sinovial é pequena e não apresenta bolsas.
 
 ### 4. Meios de união
 
-**Ligamento interósseo:** é o mais forte ligamento interósseo do corpo humano e situa-se profundamente na fenda articular póstero-superior entre as tuberosidades ilíaca e sacral.
+**Ligamento interósseo:** é o mais forte ligamento interósseo do corpo humano e localiza-se na profundidade do espaço póstero-superior, entre as tuberosidades sacral e ilíaca.
 
 ![[artic-sacro-iliaca-7.png|508]]
 
@@ -58,6 +58,8 @@ A cavidade sinovial é pequena e não apresenta bolsas.
 
 os ligamentos extrínsecos delimitam os buracos ciáticos maior e menor, por onde passam vasos e nervos fundamentais da bacia para a coxa.
 
+![[Pasted image 20261021214913.png|506]]
+
 ### 5. Movimentos
 
 Em estado basal os movimentos são praticamente nulos, há a um deslizamento micrométrico sob carga mecânica.
@@ -79,4 +81,14 @@ Por palavras chaves
 4. superficies auriculares > camada diminuta de cartilagem articular
 5. não possui bordalete nem menisco
 6. cavidade sinovial > pequena e sem bolsas
-7. ligamento interósseo > mais forte > situa-se profundamente na cavidade
+7. ligamento interósseo > mais forte > profundidade do espaço póstero-superior > entre as tuberosidades sacral e ilíaca
+8. ligamentos intrinsecos: 
+	1. sacro-ilíaco anterior > estende-se da base e da metade superior da face anterior do sacro até ao rebordo auricular do osso ilíaco.
+	2. sacro-iliaco posterior > dividido em dois planos
+		Plano superficial: feixes longos dispostos em quatro fascículos que partem da crista ilíaca para os tubérculos posteriores do sacro.
+		Plano profundo: feixes curtos que unem a tuberosidade ilíaca às áreas laterais da face posterior do sacro.
+9. ligamentos extrinsecos: 
+	1. iliolombar > apófise transversa de L5 à região posterior da crista ilíaca
+	2. sacro-espinhoso > metade inferior do bordo lateral do sacro à espinha ciática (anterior)
+	3. sacrotuberositário > posterior
+	4. delimitam os buracos ciáticos maior e menor > passam vasos e nervos fundamentais
