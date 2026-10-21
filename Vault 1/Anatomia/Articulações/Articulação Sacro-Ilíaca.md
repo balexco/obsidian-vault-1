@@ -79,15 +79,14 @@ Por palavras chaves
 	2. mulher > diartrose cilindrica
 	3. idade avançada > perde a cavidade articular > sinostose
 4. superficies auriculares > camada diminuta de cartilagem articular
-5. não possui bordalete nem menisco
-6. cavidade sinovial > pequena e sem bolsas
-7. ligamento interósseo > mais forte > profundidade do espaço póstero-superior > entre as tuberosidades sacral e ilíaca
-8. ligamentos intrinsecos: 
+5. cavidade sinovial > pequena e sem bolsas
+6. ligamento interósseo > mais forte > profundidade do espaço póstero-superior > entre as tuberosidades sacral e ilíaca
+7. ligamentos intrinsecos: 
 	1. sacro-ilíaco anterior > estende-se da base e da metade superior da face anterior do sacro até ao rebordo auricular do osso ilíaco.
-	2. sacro-iliaco posterior > dividido em dois planos
+	2. sacro-iliaco posterior > mais espesso > dividido em dois planos
 		Plano superficial: feixes longos dispostos em quatro fascículos que partem da crista ilíaca para os tubérculos posteriores do sacro.
 		Plano profundo: feixes curtos que unem a tuberosidade ilíaca às áreas laterais da face posterior do sacro.
-9. ligamentos extrinsecos: 
+8. ligamentos extrinsecos: 
 	1. iliolombar > apófise transversa de L5 à região posterior da crista ilíaca
 	2. sacro-espinhoso > metade inferior do bordo lateral do sacro à espinha ciática (anterior)
 	3. sacrotuberositário > posterior
