@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomia/Esqueleto/Coluna Vertebral.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Coluna Vertebral"
-            }
-          },
-          {
-            "id": "58e2386263b3321c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Anatomia/Articulações/Articulação Sacro-Ilíaca.md",
                 "mode": "source",
                 "source": false
@@ -34,35 +20,8 @@
               "icon": "lucide-file",
               "title": "Articulação Sacro-Ilíaca"
             }
-          },
-          {
-            "id": "480665436effa4bc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-10-20 21.16.09.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-20 21.16.09.excalidraw"
-            }
-          },
-          {
-            "id": "207f03f767c2555c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hello tudo bem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hello tudo bem"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,11 +201,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58e2386263b3321c",
+  "active": "c90884fd0ca061c4",
   "lastOpenFiles": [
-    "Captura de ecrã 2026-10-21 110638.png",
     "Anatomia/Esqueleto/Coluna Vertebral.md",
+    "Anatomia/Articulações/Figuras/artic-sacro-iliaca-6.png",
+    "Anatomia/Articulações/Figuras/artic-sacro-iliaca-3.png",
+    "Anatomia/Articulações/Figuras/artic-sacro-iliaca-5.png",
+    "Anatomia/Articulações/Figuras/artic-sacro-iliaca-2.png",
+    "Anatomia/Articulações/Figuras/artic-sacro-iliaca-1.png",
+    "Anatomia/Articulações/Figuras/artic-sacro-iliaca-4.png",
     "Anatomia/Articulações/Articulação Sacro-Ilíaca.md",
+    "Captura de ecrã 2026-10-21 111355.png",
+    "Captura de ecrã 2026-10-21 111536.png",
+    "Bem-vindo.md",
+    "Anatomia/Articulações/Figuras",
     "Anatomia/Esqueleto",
     "Anatomia/Articulações",
     "ReadMe.md",
@@ -255,7 +223,6 @@
     "crie uma ligação.md",
     "hello tudo bem.md",
     "ReadMe",
-    "Bem-vindo.md",
     "Anatomia",
     "Sem título.base"
   ]
