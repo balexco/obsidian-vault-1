@@ -25,6 +25,7 @@ Passo a passo para inicializar o controlo de versões de um cofre local do Obsid
 1. No Explorador de Ficheiros do Windows, navegar até à pasta do cofre do Obsidian.
 2. Clicar na barra de endereços no topo, escrever `powershell` e premir `Enter`.
 3. Executar a sequência de comandos para inicializar o repositório e ignorar ficheiros temporários da interface:
+
    ```powershell
    # Inicializar a base de dados do Git
    git init
@@ -42,12 +43,8 @@ Passo a passo para inicializar o controlo de versões de um cofre local do Obsid
    git remote add origin [https://github.com/o-teu-utilizador/o-teu-repositorio.git](https://github.com/o-teu-utilizador/o-teu-repositorio.git)
    git push -u origin main
    
-  ```
-  ````
-
-  ```
-´´´
-
+   ```
+  
 4. Se surgir a janela do gestor de credenciais do Git, autenticar através do browser (_Sign in with your browser_).
     
 

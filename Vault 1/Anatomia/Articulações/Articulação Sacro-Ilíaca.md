@@ -43,4 +43,4 @@ Homem:
     - **Ligamento iliolombar:** da apófise transversa de L5 à região posterior da crista ilíaca.
     - **Ligamento sacroespinhoso (pequeno ligamento ciático):** da margem lateral inferior do sacro à espinha ciática.
     - **Ligamento sacrotuberositário (grande ligamento ciático):** do sacro/espinhas ilíacas à tuberosidade isquiática.
-    - _Nota funcional:_ estes ligamentos delimitam os buracos ciáticos maior e menor (por onde emergem estruturas neurovasculares vitais, nomeadamente o nervo ciático pelo buraco ciático maior).
+    - Estes ligamentos delimitam os buracos ciáticos maior e menor (por onde emergem estruturas neurovasculares vitais, nomeadamente o nervo ciático pelo buraco ciático maior).
