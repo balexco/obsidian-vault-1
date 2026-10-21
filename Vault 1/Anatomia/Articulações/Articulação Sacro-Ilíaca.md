@@ -36,13 +36,22 @@ A cavidade sinovial é pequena e não apresenta bolsas.
 
 **Ligamento interósseo:** é o mais forte ligamento interósseo do corpo humano e situa-se profundamente na fenda articular póstero-superior entre as tuberosidades ilíaca e sacral.
 
+![[artic-sacro-iliaca-7.png|508]]
+
 **Ligamentos intrínsecos:**
+
 - **Ligamento sacro-ilíaco anterior:** estende-se da base e da metade superior da face anterior do sacro até ao rebordo auricular do osso ilíaco.
+
+![[artic-sacro-iliaca-8.png|506]]
+
 - **Ligamento sacro-ilíaco posterior (mais espesso e dividido em dois planos):**
 	- _Plano superficial:_ feixes longos dispostos em quatro fascículos que partem da crista ilíaca para os tubérculos posteriores do sacro.
 	- _Plano profundo:_ feixes curtos que unem a tuberosidade ilíaca às áreas laterais da face posterior do sacro.
 
+![[artic-sacro-iliaca-9.png|509]]
+
 **Ligamentos extrínsecos:
+
 - **Ligamento iliolombar:** une a apófise transversa da quinta vértebra lombar (L5) à crista ilíaca posterior.
 - **Ligamento sacro-espinhoso (pequeno ligamento ciático)** localiza-se anteriormente estendendo-se da metade inferior do bordo lateral do sacro até à espinha ciática.
 - **Ligamento sacrotuberositário (grande ligamento ciático)** localiza-se posteriormente.
