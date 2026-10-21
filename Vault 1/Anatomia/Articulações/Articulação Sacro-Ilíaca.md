@@ -11,13 +11,11 @@ Vista Posterior (com esqueleto, articulações e nervos):
 
 ### 1. Nome, ossos envolvidos, classificação
 
-A articulação sacro-ilíaca é constituída pela união entre o osso sacro e o osso ilíaco.
-
-Tem como função essencial assegurar a transmissão e a sustentação do peso do tronco, da cabeça e dos membros superiores para as extremidades inferiores.
+A articulação sacro-ilíaca é constituída pela união entre o osso sacro e o osso ilíaco, sustentando o peso do tronco, da cabeça e dos membros superiores.
 
 **Classificação morfológica e estrutural:**
-- no homem jovem: classifica-se como uma diartrose plana ou artródia.
-- na mulher jovem: comporta-se como uma diartrose cilíndrica ou trocoide, adaptada às exigências da dinâmica pélvica.
+- no homem jovem: classifica-se como uma diartrose plana.
+- na mulher jovem: classifica-se como uma diartrose cilíndrica, adaptada às exigências da dinâmica pélvica.
 - em idades avançadas: perde a cavidade articular e evolui naturalmente para sinostose (fusão óssea completa).
 
 Mulher:
@@ -28,27 +26,23 @@ Homem:
 
 ![[artic-sacro-iliaca-4.png|338]]![[artic-sacro-iliaca-5.png|333]]
 
-### 2. Superfícies articulares
+### 2. Superfícies articulares e Sinovial 
 
-As superfícies articulares do sacro e do ilíaco (superfícies ósseas) possuem apenas uma camada diminuta de cartilagem articular de revestimento (revestimento cartilagíneo), não possuindo bordalete fibrocartilagíneo nem meniscos interpostos (características morfológicas).
-
-### 3. Sinovial 
+As superfícies auriculares do sacro e do ilíaco possuem apenas uma camada diminuta de cartilagem articular, não possuindo bordalete nem menisco.
 
 A cavidade sinovial é pequena e não apresenta bolsas.
 
 ### 4. Meios de união
 
-**Ligamento interósseo:** é o mais forte ligamento interósseo de todo o corpo humano e situa-se profundamente na fenda articular póstero-superior, ocupando o espaço entre as tuberosidades ilíaca e sacral.
+**Ligamento interósseo:** é o mais forte ligamento interósseo do corpo humano e situa-se profundamente na fenda articular póstero-superior entre as tuberosidades ilíaca e sacral.
 
 **Ligamentos intrínsecos:**
-
 - **Ligamento sacro-ilíaco anterior:** estende-se da base e da metade superior da face anterior do sacro até ao rebordo auricular do osso ilíaco.
 - **Ligamento sacro-ilíaco posterior (mais espesso e dividido em dois planos):**
 	- _Plano superficial:_ feixes longos dispostos em quatro fascículos que partem da crista ilíaca para os tubérculos posteriores do sacro.
 	- _Plano profundo:_ feixes curtos que unem a tuberosidade ilíaca às áreas laterais da face posterior do sacro.
 
 **Ligamentos extrínsecos:
-
 - **Ligamento iliolombar:** une a apófise transversa da quinta vértebra lombar (L5) à crista ilíaca posterior.
 - **Ligamento sacro-espinhoso (pequeno ligamento ciático)** localiza-se anteriormente estendendo-se da metade inferior do bordo lateral do sacro até à espinha ciática.
 - **Ligamento sacrotuberositário (grande ligamento ciático)** localiza-se posteriormente.
@@ -61,4 +55,4 @@ Em estado basal os movimentos são praticamente nulos, há a um deslizamento mic
 
 No final da gestação e trabalho de parto, a basculação posterior do sacro aumenta o diâmetro do canal de parto para a descida do feto.
 
-A hiperlordose lombar frequente na gravidez, obesidade e no envelhecimento tem tendência a horizontalizar o sacro, levando ao estiramento dos ligamentos sacro-ilíacos e gerando dor lombar.
+A hiperlordose lombar frequente na gravidez, obesidade e no envelhecimento tem tendência a horizontalizar o sacro, levando ao estiramento dos ligamentos (provoca dor).
