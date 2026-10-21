@@ -38,9 +38,7 @@ Homem:
 
 ### 3. Sinovial 
 
-**Extensão e cavidade:** a cavidade sinovial é pequena e restrita à porção articular anterior/inferior.
-
-**Ausência de bolsas sinoviais:** a membrana sinovial não emite prolongamentos ou divertículos, estando descrita **sem bolsas (bursas) sinoviais**, nem articulares nem extra-articulares.
+A cavidade sinovial é pequena e não apresenta bolsas.
 
 ### 4. Meios de união
 
@@ -48,7 +46,7 @@ Homem:
 
 **Ligamento interósseo:**
 - situa-se profundamente na fenda articular póstero-superior, ocupando o espaço entre as tuberosidades ilíaca e sacral.
-- é o **mais forte ligamento interósseo de todo o corpo humano**, constituindo o pilar biomecânico da articulação contra o cisalhamento vertical.
+- é o mais forte ligamento interósseo de todo o corpo humano, constituindo o pilar biomecânico da articulação contra o cisalhamento vertical.
 
 **Ligamentos intrínsecos de reforço:**
 - **Ligamento sacro-ilíaco anterior:** estende-se da base e da metade superior da face anterior do sacro até ao rebordo auricular do osso ilíaco.
@@ -58,7 +56,7 @@ Homem:
 
 **Ligamentos extrínsecos (estabilizadores regionais à distância):**
 - **Ligamento iliolombar:** une a apófise transversa da quinta vértebra lombar (L5) à crista ilíaca posterior.
-- **Ligamento sacroespinhoso (pequeno ligamento ciático):** estende-se da metade inferior do bordo lateral do sacro até à espinha ciática (isquiática).
+- **Ligamento sacro-espinhoso (pequeno ligamento ciático):** estende-se da metade inferior do bordo lateral do sacro até à espinha ciática (isquiática).
 - **Ligamento sacrotuberositário (grande ligamento ciático):** parte das espinhas ilíacas posteriores e bordo lateral do sacro em direção à tuberosidade isquiática.
 - _Relevância anatómica dos ligamentos extrínsecos:_ delimitam os buracos ciáticos maior e menor, por onde passam vasos e nervos fundamentais da bacia para a coxa (com destaque para a emergência do nervo ciático pelo buraco ciático maior).
 
