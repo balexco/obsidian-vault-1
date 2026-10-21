@@ -65,3 +65,18 @@ Em estado basal os movimentos são praticamente nulos, há a um deslizamento mic
 No final da gestação e trabalho de parto, a basculação posterior do sacro aumenta o diâmetro do canal de parto para a descida do feto.
 
 A hiperlordose lombar frequente na gravidez, obesidade e no envelhecimento tem tendência a horizontalizar o sacro, levando ao estiramento dos ligamentos (provoca dor).
+
+
+
+Por palavras chaves
+
+1. união do sacro e do iliaco
+2. sustentação do tronco, cabeça e membros superiores
+3. morfologica e estrutural:
+	1. homem > diartrose plana
+	2. mulher > diartrose cilindrica
+	3. idade avançada > perde a cavidade articular > sinostose
+4. superficies auriculares > camada diminuta de cartilagem articular
+5. não possui bordalete nem menisco
+6. cavidade sinovial > pequena e sem bolsas
+7. ligamento interósseo > mais forte > situa-se profundamente na cavidade
