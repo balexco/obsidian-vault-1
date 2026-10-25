@@ -1,15 +1,3 @@
-### Programa
-
-1. Postura e Movimento do Corpo Humano
-	1. Organização do sistema esquelético - Osteologia
-	2. As grandes articulações do corpo humano - Artrologia
-	3. O tecido muscular e a locomoção humana - Miologia 
-2. O Coração a Irrigação Arterial e o Retorno Venoso 
-3. Aparelho Respiratório 
-4. Aparelho Digestivo 
-5. Aparelhos Urinário e Aparelhos Genitais 
-6. Sistema Nervoso 
-7. Estesiologia SNC - Os orgãos dos sentidos
 
 ## Postura e Movimento do Corpo Humano
 
@@ -33,16 +21,27 @@ Exercício de legenda de cortes anatómicos:
 
 ![[cortes_anatomicos.png]]
 
-1 - 
-2 - 
-3 - 
-4 - 
-5 - 
-6 - 
-7 - 
-8 - 
-9 - 
-10 - 
+1 - corte transversal; 2 - corte transversal; 3 - corte sagital; 4 - corte sagital; 5 - corte coronal; 6 - corte sagital; 7 - corte sagital; 8 - corte coronal; 9 - corte transversal; 10 - corte coronal
+
+#### Sobre o Esqueleto Humano:
+- Sistematização:
+	- Axial: cabeça, coluna vertebral e caixa torácica
+	- Apendicular: membros e ossos de ligação ao esqueleto axial
+- Função: 
+	- Confere suporte, proteção, movimento, armazenamento e produção de células sanguíneas.
+- Apresenta diferenças com a idade e entre os géneros.
+- Estudo
+	- Cada osso é estudado individualmente
+	- Ordem de estudo: orientação, classificação quanto à forma geométrica, elementos anatómicos e acidentes morfológicos.
+- Orientação anatómica: 
+	- Osso único: segura-se com as duas mãos
+	- Osso duplo: segura-se com a mão contrária à posição no esqueleto
+	- Escolher acidentes anatómicos que permitam orientar superior/inferior, anterior/posterior e medial/lateral.
+- Classificação dos ossos:
+	- Longos: corpo (diáfise) e extremidades (epífises), osso compacto e esponjoso, medula vermelha e amarela.
+	- Planos ou chatos: 2 faces, bordos e ângulos, constituído por 3 camadas (tábua externa, diploé, tábua interna, as tábuas são compactas e o diploé é esponjoso)
+	- Curtos: irregularmente cubóides, apresentam faces, bordos e ângulos
+	- Irregulares: incluem faces, bordos e ângulos
 
 ### As grandes articulações do corpo humano - Artrologia
 
