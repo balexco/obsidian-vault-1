@@ -58,7 +58,7 @@ A cavidade sinovial é pequena e não apresenta bolsas.
 
 os ligamentos extrínsecos delimitam os buracos ciáticos maior e menor, por onde passam vasos e nervos fundamentais da bacia para a coxa.
 
-![[Pasted image 20261021214913.png|506]]
+![[artic-sacro-iliaca-10.png|506]]
 
 ### 5. Movimentos
 
