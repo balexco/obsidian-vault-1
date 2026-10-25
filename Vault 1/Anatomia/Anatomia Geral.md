@@ -3,7 +3,7 @@
 
 ### Organização do sistema esquelético - Osteologia
 
-- Postura Anatómica: postura ortostática - assente na planta do pé e com os membros superiores em supinação (palma da mão virada para diante)
+- Postura Anatómica: postura ortostática - assente na planta do pé e com os membros superiores em supinação (palma da mão virada para diante).
 
 <p align="center">
   <img src="Anatomia/Figuras/posicao_ortostatica.png" width="250" />
