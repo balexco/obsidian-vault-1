@@ -11,7 +11,6 @@
 6. Sistema Nervoso 
 7. Estesiologia SNC - Os orgãos dos sentidos
 
-
 ## Postura e Movimento do Corpo Humano
 
 ### Organização do sistema esquelético - Osteologia
@@ -22,10 +21,30 @@
   <img src="Anatomia/Figuras/posicao_ortostatica.png" width="250" />
 </p>
 - Planos Anatómicos: 
-	- Sagital - 
-	- Axial, Horizontal, Transverso - 
-	- Coronal - 
+	- Sagital - medial vs. lateral
+	- Axial, Horizontal, Transverso - superior vs. inferior
+	- Coronal - anterior vs. inferior
+	- Usa-se o prefixo "para" quando o plano é paralelo ao principal, ex.: para-sagital, para-axial, paracoronal.
+
+<p align="center">
+  <img src="Anatomia/Figuras/planos_anatomicos.png" width="400" />
+</p>
+Exercício de legenda de cortes anatómicos: 
+
+![[cortes_anatomicos.png]]
+
+1 - 
+2 - 
+3 - 
+4 - 
+5 - 
+6 - 
+7 - 
+8 - 
+9 - 
+10 - 
 
 ### As grandes articulações do corpo humano - Artrologia
 
 ### O tecido muscular e a locomoção humana - Miologia 
+ddd
