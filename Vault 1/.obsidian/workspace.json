@@ -199,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,8 +217,11 @@
   },
   "active": "1077f4bab84177a4",
   "lastOpenFiles": [
-    "Anatomia/Figuras/osteologia/meninges.png",
+    "Anatomia/Figuras/osteologia/pontos_calote.png",
+    "Anatomia/Figuras/osteologia/bordos_parietal.png",
     "Anatomia/1. Osteologia/1. Cabeça Óssea.md",
+    "Anatomia/Figuras/osteologia/bordos_parietal.png",
+    "Anatomia/Figuras/osteologia/meninges.png",
     "Anatomia/Figuras/osteologia/faces_parietal.png",
     "Anatomia/Figuras/osteologia/faces_parietal.png",
     "Anatomia/Figuras/osteologia/parietal.png",
@@ -229,10 +231,8 @@
     "Anatomia/Figuras/posicao_ortostatica.png",
     "Anatomia/Figuras/planos_anatomicos.png",
     "Anatomia/Figuras/artrologia/artic-sacro-iliaca-2.png",
-    "Anatomia/Figuras/artrologia/artic-sacro-iliaca-10.png",
     "Anatomia/Figuras/artrologia",
     "Anatomia/Figuras/osteologia",
-    "1 (1).png",
     "Anatomia/1. Osteologia/2. Coluna Vertebral.md",
     "Anatomia/1. Osteologia/3. Esqueleto Apendicular.md",
     "Anatomia/1. Osteologia/2. Pequenos Ossos Maciço Facial.md",
