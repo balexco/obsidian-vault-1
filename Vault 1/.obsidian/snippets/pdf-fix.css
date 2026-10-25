@@ -1,0 +1,20 @@
+@media print {
+  /* Força a permissão de quebra de página em blocos comuns */
+  table, 
+  pre, 
+  code, 
+  blockquote, 
+  .callout, 
+  .math, 
+  ul, 
+  ol {
+    break-inside: auto !important;
+    page-break-inside: auto !important;
+  }
+
+  /* Garante que o conteúdo não é truncado por regras de overflow */
+  .markdown-rendered,
+  .markdown-rendered * {
+    overflow: visible !important;
+  }
+}
