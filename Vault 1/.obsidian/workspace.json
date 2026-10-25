@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomia/Anatomia Geral.md",
+                "file": "Anatomia/1. Osteologia/1. Cabeça Óssea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anatomia Geral"
+              "title": "1. Cabeça Óssea"
             }
           },
           {
@@ -228,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,8 +247,10 @@
   },
   "active": "1077f4bab84177a4",
   "lastOpenFiles": [
-    "Anatomia/1. Osteologia/4. Esqueleto Apendicular.md",
+    "Anatomia/1. Osteologia/2. Coluna Vertebral.md",
+    "Anatomia/1. Osteologia/3. Esqueleto Apendicular.md",
     "Anatomia/1. Osteologia/1. Cabeça Óssea.md",
+    "Anatomia/1. Osteologia/2. Pequenos Ossos Maciço Facial.md",
     "Anatomia/Anatomia Geral.md",
     "Anatomia/Figuras/cortes_anatomicos.png",
     "Pasted image 20261025163515.png",
@@ -255,11 +258,9 @@
     "Anatomia/Figuras/posicao_ortostatica.png",
     "Anatomia/Figuras/planos_anatomicos.png",
     "Anatomia/Figuras",
-    "Anatomia/1. Osteologia/2. Pequenos Ossos Maciço Facial.md",
     "Excalidraw/Drawing 2026-10-20 21.16.09.excalidraw.md",
     "Anatomia/2. Artrologia/Figuras/Pasted image 20261021214913.png",
     "ReadMe.md",
-    "Anatomia/1. Osteologia/3. Coluna Vertebral.md",
     "Anatomia/3. Miologia",
     "Anatomia/2. Artrologia/Articulação Sacro-Ilíaca.md",
     "Anatomia/2. Artrologia/Figuras/artic-sacro-iliaca-8.png",
