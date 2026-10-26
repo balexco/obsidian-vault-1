@@ -190,8 +190,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,17 +213,16 @@
       "bases:Criar nova base": false,
       "publish:Publicar alterações": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1077f4bab84177a4",
   "lastOpenFiles": [
+    "Sem título.base",
+    "Sem título.canvas",
+    "Anatomia/1. Osteologia/1. Cabeça Óssea.md",
     "Anatomia/Figuras/osteologia/pontos_calote.png",
     "Anatomia/Figuras/osteologia/bordos_parietal.png",
-    "Anatomia/1. Osteologia/1. Cabeça Óssea.md",
     "Anatomia/Figuras/osteologia/bordos_parietal.png",
     "Anatomia/Figuras/osteologia/meninges.png",
     "Anatomia/Figuras/osteologia/faces_parietal.png",
@@ -233,7 +233,6 @@
     "Anatomia/2. Artrologia/Articulação Sacro-Ilíaca.md",
     "Anatomia/Figuras/posicao_ortostatica.png",
     "Anatomia/Figuras/planos_anatomicos.png",
-    "Anatomia/Figuras/artrologia/artic-sacro-iliaca-2.png",
     "Anatomia/Figuras/artrologia",
     "Anatomia/Figuras/osteologia",
     "Anatomia/1. Osteologia/2. Coluna Vertebral.md",
@@ -250,7 +249,6 @@
     "Excalidraw",
     "crie uma ligação.md",
     "hello tudo bem.md",
-    "ReadMe",
-    "Anatomia"
+    "ReadMe"
   ]
 }
