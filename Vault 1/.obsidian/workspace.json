@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.1000061035156
+    "width": 279.1000061035156,
+    "collapsed": true
   },
   "right": {
     "id": "43a87dc052f877c1",
@@ -216,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49dc9ca83bf79cdc",
+  "active": "1077f4bab84177a4",
   "lastOpenFiles": [
     "Anatomia/Figuras/osteologia/etmoide.png",
     "Anatomia/Figuras/osteologia/etmoide.png",
