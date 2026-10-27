@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.1000061035156,
-    "collapsed": true
+    "width": 279.1000061035156
   },
   "right": {
     "id": "43a87dc052f877c1",
@@ -217,8 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1077f4bab84177a4",
+  "active": "49dc9ca83bf79cdc",
   "lastOpenFiles": [
+    "Anatomia/Figuras/osteologia/etmoide.png",
+    "Anatomia/Figuras/osteologia/etmoide.png",
+    "Anatomia/Figuras/osteologia/cornetos_etmoide.png",
     "Anatomia/Figuras/osteologia/grande_asa.png",
     "Anatomia/Figuras/osteologia/esfenoide.png",
     "Anatomia/Figuras/osteologia/escama_temporal.png",
@@ -228,9 +230,6 @@
     "Anatomia/Figuras/osteologia/frontal.png",
     "Anatomia/Figuras/osteologia/bordos_occipital.png",
     "Anatomia/Figuras/osteologia/occipital.png",
-    "Anatomia/Figuras/osteologia/faces_occipital.png",
-    "Anatomia/Figuras/osteologia/sulcos.png",
-    "Anatomia/Figuras/osteologia/seios_venosos.png",
     "Sem título.base",
     "Sem título.canvas",
     "Anatomia/Anatomia Geral.md",
