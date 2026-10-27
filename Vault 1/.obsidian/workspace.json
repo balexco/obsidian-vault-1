@@ -191,8 +191,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +218,8 @@
   },
   "active": "1077f4bab84177a4",
   "lastOpenFiles": [
+    "Anatomia/Figuras/osteologia/zigomatico.png",
+    "Anatomia/Figuras/osteologia/vomer.png",
     "Anatomia/Figuras/osteologia/maxila.png",
     "Anatomia/Figuras/osteologia/mandibula_elementos_anatomicos.png",
     "Anatomia/1. Osteologia/1. Cabeça Óssea.md",
@@ -229,8 +230,6 @@
     "Anatomia/Figuras/osteologia/grande_asa.png",
     "Anatomia/Figuras/osteologia/esfenoide.png",
     "Anatomia/Figuras/osteologia/escama_temporal.png",
-    "Anatomia/Figuras/osteologia/parietal.png",
-    "Anatomia/Figuras/osteologia/temporal.png",
     "Sem título.base",
     "Sem título.canvas",
     "Anatomia/Anatomia Geral.md",
