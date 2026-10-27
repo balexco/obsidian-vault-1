@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.1000061035156
+    "width": 279.1000061035156,
+    "collapsed": true
   },
   "right": {
     "id": "43a87dc052f877c1",
@@ -218,8 +219,8 @@
   },
   "active": "1077f4bab84177a4",
   "lastOpenFiles": [
-    "grande_asa.png",
-    "esfenoide.png",
+    "Anatomia/Figuras/osteologia/grande_asa.png",
+    "Anatomia/Figuras/osteologia/esfenoide.png",
     "Anatomia/Figuras/osteologia/escama_temporal.png",
     "Anatomia/Figuras/osteologia/parietal.png",
     "Anatomia/1. Osteologia/1. Cabeça Óssea.md",
