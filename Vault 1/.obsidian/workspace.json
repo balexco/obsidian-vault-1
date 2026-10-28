@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomia/1. Osteologia/1. Cabeça Óssea.md",
+                "file": "Anatomia/3. Miologia/Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Cabeça Óssea"
+              "title": "Sem título"
             }
           },
           {
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.1000061035156,
-    "collapsed": true
+    "width": 279.1000061035156
   },
   "right": {
     "id": "43a87dc052f877c1",
@@ -217,20 +216,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1077f4bab84177a4",
+  "active": "49dc9ca83bf79cdc",
   "lastOpenFiles": [
+    "Anatomia/1. Osteologia/1. Cabeça Óssea.md",
+    "Anatomia/3. Miologia/Sem título.md",
+    "Anatomia/Figuras/miologia",
     "Anatomia/Figuras/osteologia/zigomatico.png",
     "Anatomia/Figuras/osteologia/vomer.png",
     "Anatomia/Figuras/osteologia/maxila.png",
     "Anatomia/Figuras/osteologia/mandibula_elementos_anatomicos.png",
-    "Anatomia/1. Osteologia/1. Cabeça Óssea.md",
     "Anatomia/Figuras/osteologia/mandibula.png",
     "Anatomia/Figuras/osteologia/etmoide.png",
     "Anatomia/Figuras/osteologia/etmoide.png",
     "Anatomia/Figuras/osteologia/cornetos_etmoide.png",
     "Anatomia/Figuras/osteologia/grande_asa.png",
     "Anatomia/Figuras/osteologia/esfenoide.png",
-    "Anatomia/Figuras/osteologia/escama_temporal.png",
     "Sem título.base",
     "Sem título.canvas",
     "Anatomia/Anatomia Geral.md",
@@ -250,7 +250,6 @@
     "Anatomia/2. Artrologia",
     "Excalidraw",
     "crie uma ligação.md",
-    "hello tudo bem.md",
-    "ReadMe"
+    "hello tudo bem.md"
   ]
 }
