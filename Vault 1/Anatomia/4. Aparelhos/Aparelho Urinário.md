@@ -47,7 +47,7 @@ Unidade funcional do rim: recebe o sangue não filtrado e dá origem ao sangue f
 ### Vias Urinárias
 
 #### Pelve Renal
-Primeiro componente das vias urinárias: espaço de recolha da urina que vai desde as papilas renais até ao final do bacinete
+Primeiro componente das vias urinárias: espaço de recolha da urina que vai desde as papilas renais até ao final do bacinete.
 
 - Nas papilas renais abrem os orifícios dos tubos coletores, que despejam a urina na pelve renal
 - Porção intrarrenal: cálices renais
