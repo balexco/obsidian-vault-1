@@ -1,3 +1,4 @@
+IMAGEM GERAL
 ## Funções do Aparelho Urinário
 
 - Controlo do equilíbrio hídrico do corpo
