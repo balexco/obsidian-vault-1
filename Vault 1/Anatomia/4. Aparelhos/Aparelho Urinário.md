@@ -10,6 +10,11 @@ IMAGEM GERAL
 ## Divisão Morfofuncional
 O aparelho urinário divide-se em rins e vias urinárias (pelve renal, ureteres, bexiga e uretra).
 ### Rins
+
+<p align="center">
+  <img src="Anatomia/Figuras/aparelhos/rim_interior.png" width="400" />
+</p>
+
 #### Topografia
 - Órgãos retroperitoneais, situados na fossa lombar, lateralmente à coluna, entre T11 e L3
     - rim direito: T12–L3 (mais inferior)
@@ -20,6 +25,11 @@ O aparelho urinário divide-se em rins e vias urinárias (pelve renal, ureteres,
 #### Relações Anatómicas
 - Rim direito: fígado, duodeno (2.ª porção) e ângulo direito do cólon
 - Rim esquerdo: baço, pâncreas (cauda) e ângulo esquerdo do cólon
+
+<p align="center">
+  <img src="Anatomia/Figuras/aparelhos/rim_relacoes_anatomicas.png" width="200" />
+</p>
+
 #### Cápsula, Gordura Perirrenal e Hilo Renal
 - Cápsula renal: transparente, de tecido conjuntivo denso (rico em fibras de colagénio); quando distendida causa dor que irradia para a região lombar
 - Gordura perirrenal: envolve o rim
@@ -66,6 +76,11 @@ Canal com mais de 20 cm de comprimento que liga o bacinete à bexiga.
     - porção ilíaca: o ureter encurva-se ao moldar-se à face anterior da artéria ilíaca comum
     - porção intramural ou intravesical: o ureter estreita-se ao atravessar a parede da bexiga
 - Como a uretra tem maior calibre do que o ureter, os cálculos que chegam à bexiga já não encravam daí para diante
+
+<p align="center">
+  <img src="Anatomia/Figuras/aparelhos/ureteres.png" width="150" />
+</p>
+
 #### Bexiga
 - Forma: tetraedro
 - Paredes: superior, posterior (base) e anterolaterais
@@ -84,6 +99,9 @@ Canal com mais de 20 cm de comprimento que liga o bacinete à bexiga.
     - peniana
 - Uretra feminina: curta; sai do colo da bexiga, atravessa o diafragma urogenital e abre no vestíbulo vaginal (meato uretral).
 
+<p align="center">
+  <img src="Anatomia/Figuras/aparelhos/uretra.png" width="500" />
+</p>
 
 
 Não sei se é preciso saber:
