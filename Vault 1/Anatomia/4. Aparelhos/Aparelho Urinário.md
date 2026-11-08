@@ -72,12 +72,22 @@ Canal com mais de 20 cm de comprimento que liga o bacinete à bexiga.
 - Colo: área afunilada da base de onde sai a uretra
 - Orifícios: dois ureterais e um uretral
 - Trígono: área triangular entre os dois orifícios ureterais e o orifício uretral
+
+<p align="center">
+  <img src="Anatomia/Figuras/aparelhos/bexiga.png" width="500" />
+</p>
+
 #### Uretra
 - Uretra masculina: tem três porções
     - prostática: atravessa a próstata; é a porção mais dilatada
     - membranosa: atravessa o diafragma urogenital
     - peniana
 - Uretra feminina: curta; sai do colo da bexiga, atravessa o diafragma urogenital e abre no vestíbulo vaginal (meato uretral).
+
+
+
+Não sei se é preciso saber:
+
 ### Litíase Renal e Hidronefrose
 - Litíase renal: formação de cálculos renais ("litus" = pedra) pela concentração de sais de cálcio (oxalatos), ácido úrico, etc
 - Os cálculos podem encravar nos estreitamentos do ureter, causando cólica renal e oclusão da via urinária
@@ -100,3 +110,13 @@ A composição da urina reflete a função renal.
     - turvo: infeção urinária, proteinúria
     - espuma: excesso ocasional de proteínas na dieta, insuficiência renal (habitual), infeção urinária (temporária)
 - Glicose: excesso de ingestão de açúcares ou diabetes.
+
+
+
+
+
+
+
+
+
+
