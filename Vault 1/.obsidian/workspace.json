@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomia/1. Osteologia/2. Coluna Vertebral.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Coluna Vertebral"
-            }
-          },
-          {
-            "id": "845d4fa3cacc504b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Anatomia/4. Aparelhos/Aparelho Urinário.md",
                 "mode": "source",
                 "source": false
@@ -49,8 +35,7 @@
               "title": "Anatomia Geral"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,9 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "845d4fa3cacc504b",
+  "active": "1077f4bab84177a4",
   "lastOpenFiles": [
     "Anatomia/1. Osteologia/2. Coluna Vertebral.md",
+    "Anatomia/Anatomia Geral.md",
+    "file:C:/Users/bruna/AppData/Local/Temp/a7d2382a-eafb-40b0-a3c8-17e90209f7ab_SAC_26_Group_XY.zip.SAC_26_Group_XY.zip/SAC_26_Group_XY/10_Code_files/README.md",
     "Anatomia/4. Aparelhos/Aparelho Urinário.md",
     "Anatomia/4. Aparelhos",
     "Anatomia/1. Osteologia/1. Cabeça Óssea.md",
@@ -252,7 +239,6 @@
     "Anatomia/Figuras/osteologia/mandibula_elementos_anatomicos.png",
     "Sem título.base",
     "Sem título.canvas",
-    "Anatomia/Anatomia Geral.md",
     "Anatomia/2. Artrologia/Articulação Sacro-Ilíaca.md",
     "Anatomia/Figuras/artrologia",
     "Anatomia/Figuras/osteologia",
