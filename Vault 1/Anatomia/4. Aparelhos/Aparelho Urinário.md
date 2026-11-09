@@ -50,6 +50,10 @@ O aparelho urinário divide-se em rins e vias urinárias (pelve renal, ureteres,
 #### Nefrónio
 Unidade funcional do rim: recebe o sangue não filtrado e dá origem ao sangue filtrado e à urina.
 
+<p align="center">
+  <img src="Anatomia/Figuras/aparelhos/nefronio.png" width="400" />
+</p>
+
 - Glomérulo: novelo de capilares entre a arteríola aferente (entra) e a arteríola eferente (sai), envolvido pela cápsula de Bowman
 - Tubo contornado proximal
 - Ansa de Henle: ramo descendente e ramo ascendente

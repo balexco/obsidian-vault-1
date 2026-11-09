@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,6 +219,7 @@
   },
   "active": "1077f4bab84177a4",
   "lastOpenFiles": [
+    "Anatomia/Figuras/aparelhos/nefronio.png",
     "Anatomia/Figuras/aparelhos/aparelho_urinario.png",
     "Anatomia/Figuras/aparelhos/uretra.png",
     "Anatomia/Figuras/aparelhos/ureteres.png",
@@ -232,7 +234,6 @@
     "Anatomia/Figuras/aparelhos/rim_interior.png",
     "Anatomia/Figuras/aparelhos/rim_relacoes_anatomicas.png",
     "Anatomia/Figuras/aparelhos/ureteres.png",
-    "Anatomia/Figuras/aparelhos/uretra.png",
     "Anatomia/1. Osteologia/2. Coluna Vertebral.md",
     "Anatomia/Anatomia Geral.md",
     "file:C:/Users/bruna/AppData/Local/Temp/a7d2382a-eafb-40b0-a3c8-17e90209f7ab_SAC_26_Group_XY.zip.SAC_26_Group_XY.zip/SAC_26_Group_XY/10_Code_files/README.md",
