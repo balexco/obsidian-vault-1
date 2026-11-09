@@ -1,4 +1,8 @@
-IMAGEM GERAL
+
+<p align="center">
+  <img src="Anatomia/Figuras/aparelhos/aparelho_urinario.png" width="500" />
+</p>
+
 ## Funções do Aparelho Urinário
 
 - Controlo do equilíbrio hídrico do corpo

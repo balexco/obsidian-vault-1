@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.1000061035156
+    "width": 279.1000061035156,
+    "collapsed": true
   },
   "right": {
     "id": "43a87dc052f877c1",
@@ -217,6 +218,7 @@
   },
   "active": "1077f4bab84177a4",
   "lastOpenFiles": [
+    "Anatomia/Figuras/aparelhos/aparelho_urinario.png",
     "Anatomia/Figuras/aparelhos/uretra.png",
     "Anatomia/Figuras/aparelhos/ureteres.png",
     "Anatomia/Figuras/aparelhos/rim_relacoes_anatomicas.png",
@@ -235,7 +237,6 @@
     "Anatomia/Anatomia Geral.md",
     "file:C:/Users/bruna/AppData/Local/Temp/a7d2382a-eafb-40b0-a3c8-17e90209f7ab_SAC_26_Group_XY.zip.SAC_26_Group_XY.zip/SAC_26_Group_XY/10_Code_files/README.md",
     "Anatomia/4. Aparelhos",
-    "Anatomia/Figuras/osteologia/base_craniana_andares.png",
     "Anatomia/3. Miologia/Sem título.md",
     "Anatomia/Figuras/miologia",
     "Sem título.base",
