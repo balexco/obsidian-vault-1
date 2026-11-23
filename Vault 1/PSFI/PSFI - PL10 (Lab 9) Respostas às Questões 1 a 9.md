@@ -7,12 +7,10 @@ Ideia-chave para todo o lab: N = 81 é ímpar e os coeficientes são antissimét
 
 ## Questão 1
 
-<p align="center">
-  <img src="PSFI/1.png" width="700" />
-</p>
+![[Pasted image 20261123004009.png]]
 
 - Ideal: H(e^{jω}) = jω, logo |H| = ω. A magnitude cresce linearmente com a frequência, de 0 até π.
-- FIR de ordem 80: segue a reta ideal em quase toda a banda (de cerca de 50 Hz a 3.8 kHz). Tem um máximo de cerca de 3 perto de 3.8 kHz e depois cai para 0 em 4000 Hz. Esta queda é imposta pelo tipo III (zero em z = −1), por isso o filtro não chega ao valor ideal π em ω = π.
+- FIR de ordem 80: segue a reta ideal desde 0 Hz até cerca de 3.87 kHz. Tem um máximo de 3.01 perto de 3830 Hz e depois cai para 0 em 4000 Hz. Esta queda é imposta pelo tipo III (zero em z = −1), por isso o filtro não chega ao valor ideal π em ω = π.
 - Eixos equivalentes: freq (Hz) = (ω/π) × F_N = (ω/π) × 4000.
 
 | ω/π | 0 | 0.25 | 0.5 | 0.75 | 1 |
@@ -21,13 +19,11 @@ Ideia-chave para todo o lab: N = 81 é ímpar e os coeficientes são antissimét
 
 ## Questão 2
 
-<p align="center">
-  <img src="PSFI/2.png" width="700" />
-</p>
+![[Pasted image 20261123004024.png]]
 
 - Ideal: H(e^{jω}) = −j·sgn(ω), logo |H| = 1 para 0 < ω < π. Deixa a amplitude igual e só desfasa −90°.
-- FIR de ordem 80: |H| ≈ 1 entre cerca de 130 Hz e 3870 Hz, e |H| = 0 em 0 Hz e em 4000 Hz (tipo III), com bandas de transição junto aos dois extremos. A resposta é simétrica em torno de 2000 Hz (ω = π/2).
-- Consequência prática: os sinais muito perto de 0 Hz ou de 4 kHz são atenuados. A 60 Hz o ganho é só cerca de 0.6, e é por isso que o lab testa entre 60 Hz e 3.8 kHz.
+- FIR de ordem 80: |H| ≈ 1 entre cerca de 143 Hz e 3857 Hz, e |H| = 0 em 0 Hz e em 4000 Hz (tipo III), com bandas de transição junto aos dois extremos. A resposta é simétrica em torno de 2000 Hz (ω = π/2).
+- Consequência prática: os sinais muito perto de 0 Hz ou de 4 kHz são atenuados. A 60 Hz o ganho é só cerca de 0.56 (e a 100 Hz cerca de 0.81), e é por isso que o lab testa entre 60 Hz e 3.8 kHz.
 
 ## Questão 3
 
@@ -40,6 +36,7 @@ Resposta: alternativa C, `xref = x[DELAY];`
   - A (`x[0]`) e E (`x[N-1]`) ficam com 40 amostras de diferença;
   - B e D ficam com 1 amostra de diferença, o que dá um erro de fase de ω. A 2500 Hz isso já são 112.5°.
 
+![[Pasted image 20261123004118.png]]
 ## Questão 4
 
 Resposta: 20 multiplicações.
@@ -55,6 +52,7 @@ for (k = 1; k <= DELAY; k += 2)     // k = 1, 3, ..., 39  ->  20 multiplicaçõe
 
 Para comparação: o diferenciador também é antissimétrico, mas só tem o coeficiente central nulo, por isso fica em 40 multiplicações.
 
+![[Pasted image 20261123004046.png]]
 ## Questão 5
 
 Amarelo (CH1) = entrada x[n] (atrasada, `xref`). Verde (CH2) = saída y[n] do diferenciador.
@@ -85,58 +83,6 @@ Resposta: um atraso puro de exatamente (N−1)/2 = 40 amostras, ou seja z^{−40
 ## Questão 8
 
 Ajuste: desfasar cada harmónica de −90°, que é o que o Hilbert faz. Como sin(a − π/2) = −cos(a), isto equivale a trocar −sin(…) por +cos(…).
-
-```matlab
-%% PSFI PL 10 - RESOLUÇÃO QUESTÃO 8 DA SECÇÃO 7
-
-% generate a 50Hz sawtooth wave
-
-L = 15;
-
-FS = 8000;
-
-T = 1/FS;
-
-t = [0:T:0.07-T];
-
-freq = 50;
-
-% In-phase
-
-x = zeros(1,length(t));
-
-for k = 1:L
-
-x = x - sin(2*pi*k*freq*t)/k;
-
-end
-
-% Quadrature
-
-y = zeros(1,length(t));
-
-for k = 1:L
-
-y = y + cos(2*pi*k*freq*t)/k;
-
-end
-
-figure('Name', 'Questão 8 - Secção 7 - PSFI PL10')
-
-subplot(1,2,1)
-
-plot(t,x)
-
-xlabel('Time (s)'); ylabel('Amplitude'); title('In-phase')
-
-axis([0 0.07 -2 2])
-
-subplot(1,2,2)
-
-plot(t,y)
-
-xlabel('Time (s)'); ylabel('Amplitude'); title('Quadrature')
-```
 
 ![[Pasted image 20261123001616.png]]
 
